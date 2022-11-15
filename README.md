@@ -2,6 +2,6 @@
 A Novel Method for Handwritten Digit Recognition System
 # Team Members:
 Team Lead - Sandeesh S
-Team Memeber 1 - Praveenkumar S
-Team Member 2 - Sakthivel A
-Team Member 3 - Siva Ponmurugan K
+Team Memeber 1 - Sugesh Gowdharsan S J
+Team Member 2 - Venkatkrishna S V
+Team Member 3 - Praveen Kumar K
